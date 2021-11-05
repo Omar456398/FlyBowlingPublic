@@ -1,3 +1,3 @@
 # Privacy Policy
 
-- we may share some of users data to help with advertisement targeting
+- Ads network we are using may collect some of users data to help with advertisement targeting
